@@ -143,7 +143,7 @@ the code.
 ```bash
 export MIMIC_DIR=/path/to/mimiciv/3.1
 export EICU_DIR=/path/to/eicu-crd/2.0
-./run_all.sh            # or: ./run_all.sh mimic | eicu | pooled
+bash run_all.sh         # or: bash run_all.sh mimic | eicu | pooled
 ```
 
 Each step can also be run on its own from the repository root, e.g.

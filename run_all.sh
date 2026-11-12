@@ -2,7 +2,7 @@
 # ---------------------------------------------------------------------------
 # run_all.sh - runs the pipeline in order.
 #
-# Usage:  ./run_all.sh [all|mimic|eicu|pooled]        (default: all)
+# Usage:  bash run_all.sh [all|mimic|eicu|pooled]     (default: all)
 #
 # Paths are taken from MIMIC_DIR, EICU_DIR, WORK_DIR and OUT_DIR (see config.py).
 # The stages "mimic" and "eicu" are independent and can be run in two shells at
