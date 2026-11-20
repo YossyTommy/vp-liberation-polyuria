@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-10_interaction.py - eICU-CRD v2.0, one pre-specified additional analysis for manuscript v16
-(post hoc, exploratory): is the link between polyuria and a rise in serum sodium stronger in
+10_interaction.py - eICU-CRD v2.0, one additional analysis for manuscript v16 (post hoc,
+exploratory; outcome, model and sensitivity definition were fixed before the model was fitted): is the link between polyuria and a rise in serum sodium stronger in
 the VP group than in the NE group?
 
 The analysis is that of mimic/12_interaction.py.

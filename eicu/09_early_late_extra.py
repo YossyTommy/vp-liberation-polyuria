@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 09_early_late_extra.py - eICU-CRD v2.0, second set of exploratory analyses on early (0-8 h) and
-late (>8-24 h) polyuria in the VP and NE-only groups (not part of the manuscript analyses).
+late (>8-24 h) polyuria in the VP and NE-only groups (reported in the manuscript as post hoc exploratory analyses).
 
 The five analyses (E1-E5) and their definitions are those of mimic/11_early_late_extra.py; they
 were fixed before any of them was run and all of them are reported whatever their direction.

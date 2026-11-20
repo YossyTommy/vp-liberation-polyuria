@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-08_early_late.py - eICU-CRD v2.0, exploratory analyses requested after v15 (not part of the
-manuscript analyses).
+08_early_late.py - eICU-CRD v2.0, post hoc exploratory analyses added after v15 (reported in
+the manuscript as post hoc exploratory analyses).
 
   A  early (onset 0-8 h) vs late (>8-24 h) polyuria, VP vs NE-only, among the stays of the
      primary population with polyuria within 24 h: sodium, haemodynamics, co-interventions,
