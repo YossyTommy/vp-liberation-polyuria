@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-02_early_late.py - pooled estimates of the exploratory analyses requested after v15 and the
-multiplicity table of the v15 secondary end points (not part of the manuscript analyses).
+02_early_late.py - pooled estimates of the post hoc exploratory analyses added after v15 and the
+multiplicity table of the v15 secondary end points (both reported in the manuscript; the
+exploratory analyses as post hoc, the multiplicity table as Supplementary Table S18).
 
   B  multinomial logistic regression (no polyuria / polyuria without sodium rise / polyuria with
      sodium rise): adjusted OR of the VP group for categories 1 and 2, pooled across databases
