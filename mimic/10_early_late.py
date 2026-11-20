@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-10_early_late.py - MIMIC-IV v3.1, exploratory analyses requested after v15 (not part of the
-manuscript analyses).
+10_early_late.py - MIMIC-IV v3.1, post hoc exploratory analyses added after v15 (reported in
+the manuscript as post hoc exploratory analyses).
 
   A  early (onset 0-8 h) vs late (>8-24 h) polyuria, VP vs NE, among the stays of the primary
      population with polyuria within 24 h: sodium, haemodynamics, co-interventions, urine and

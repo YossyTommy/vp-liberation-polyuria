@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 11_early_late_extra.py - MIMIC-IV v3.1, second set of exploratory analyses on early (0-8 h) and
-late (>8-24 h) polyuria in the VP and NE groups (not part of the manuscript analyses).
+late (>8-24 h) polyuria in the VP and NE groups (reported in the manuscript as post hoc exploratory analyses).
 
 The five analyses were fixed before any of them was run; all of them are reported whatever
 their direction.

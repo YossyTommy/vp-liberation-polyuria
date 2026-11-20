@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-12_interaction.py - MIMIC-IV v3.1, one pre-specified additional analysis for manuscript v16
-(post hoc, exploratory): is the link between polyuria and a rise in serum sodium stronger in
+12_interaction.py - MIMIC-IV v3.1, one additional analysis for manuscript v16 (post hoc,
+exploratory; outcome, model and sensitivity definition were fixed before the model was fitted): is the link between polyuria and a rise in serum sodium stronger in
 the VP group than in the NE group?
 
   population   sodium denominator of analysis B (10_early_late.py): primary population, every
