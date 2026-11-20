@@ -25,6 +25,9 @@ byte-identical.
 
 ### Changed
 
+* Header comments of `mimic/10`, `mimic/11`, `mimic/12`, `eicu/08`, `eicu/09`, `eicu/10` and `pooled/02` reworded to
+  state that these analyses are reported in the manuscript as post hoc exploratory analyses (comments only; no
+  change to the code or to any result).
 * `README.md`: repository layout with the added files; table of scripts and manuscript items renamed to the current
   item names (Supplementary Table S1-S26, Supplementary Figure S1-S5) and extended to the added tables and figures;
   sources of Figures 3 and 4 updated; new section on primary, secondary and post hoc analyses; run order of the added

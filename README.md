@@ -136,11 +136,9 @@ exploratory analyses were developed after initial examination of the data. The s
 | Additions without a new analysis | `mimic/13`, `14`; `eicu/11`, `12`; `pooled/05` (`run_additions_v17.sh`) | The sodium-rise models are fitted again unchanged to obtain clustered and model-based standard errors (the wider interval in each database is reported); bootstrap confidence bands are added to the closed-cohort time course. |
 
 The headers of the added scripts keep the labels of the manuscript drafts in which they were written (v15, v16, v17):
-v15 is the manuscript version of the primary pipeline. Where a header says "not part of the manuscript analyses",
-the script was written before its results were added to the manuscript; these analyses are now reported as post hoc
-exploratory analyses. Where the header of `mimic/12` and `eicu/10` says "pre-specified", it means that the outcome,
-the model and the sensitivity definition were fixed before the model was fitted, after the descriptive proportions
-had been seen; the analysis is post hoc.
+v15 is the manuscript version of the primary pipeline. All added analyses are reported in the manuscript as post hoc
+exploratory analyses. For `mimic/12` and `eicu/10`, the outcome, the model and the sensitivity definition were fixed
+before the model was fitted, after the descriptive proportions had been seen; the analysis is post hoc.
 
 ## Data access
 
